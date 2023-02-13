@@ -67,8 +67,3 @@ if(int.TryParse(Console.ReadLine(), out int а))
 }
 }
 
-//int[] myArr = createRandArr(8, 0, 100);
-//printArr(myArr);
-//int[] myArrManual = createArr(8);
-//printArr(myArrManual);
-
